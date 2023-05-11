@@ -1,0 +1,8 @@
+{
+   "F133C25wXMWEaIajxyAdelkwNu4qC+74d7pljl07wp0=": {
+      "expiry": 1715048676.859914,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1683512676.859915
+   }
+}
