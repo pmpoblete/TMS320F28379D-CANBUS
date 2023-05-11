@@ -140,9 +140,5 @@ void DSP_Setup()
     txMsgData[7] = 100;
     *(uint16_t *)rxMsgData = 0;
 
-    // Send Test Message
-    // CAN_sendMessage(CANB_BASE, 1, MSG_DATA_LENGTH, txMsgData);
-    // CAN_clearMessage(CANB_BASE, 1);
-
 }
 
