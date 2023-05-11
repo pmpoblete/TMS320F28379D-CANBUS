@@ -84,6 +84,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="UTS_F28379D" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="UTS_F28379D/UTS_F28379D/zz__Info"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
